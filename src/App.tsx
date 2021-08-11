@@ -4,7 +4,6 @@ import Routes from "./routes";
 import "./style/index.css";
 
 const App: React.FC = () => {
-
   return (
     <Router>
       <Routes />
